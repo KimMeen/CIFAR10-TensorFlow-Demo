@@ -18,7 +18,7 @@ This project aims to build a multi-classes classifier based on CNN and CIFAR10 d
 The primary goal in this project is not to build a classifier with an extremely high accuracy, but to predict on a single
 image by using the model that we trained, i.e. [A deep learning object detector demo](http://silverpond.com.au/object-detector) in Silverpond.
 ## Training and Evaluation
-The training accuracy and loss curves are show below.
+The training accuracy and loss curves are shown below.
 
 ![Test_Accuracy](https://github.com/KimMeen/CIFAR10-Tensorflow-Single-Image-Test/raw/master/Test_accuracy.png)
 
@@ -52,7 +52,8 @@ You can re-train the model by running Step1-Training.ipynb
 You can use the model to predict on a single image directly by using Step2-Prediction.ipynb, and skip the Step1 directly. This step will restore the model that I trained before in ./model folder.
 
 ## Future Improvements
-If possible, I would like to do these imporvements:
+
+Due to the limitation of time, I would like to do these imporvements in the future:
 
 + Trying to add the objects' bounding boxes in the picture by using [OpenCV](https://opencv.org/) or [labelImg](https://github.com/tzutalin/labelImg)
 
