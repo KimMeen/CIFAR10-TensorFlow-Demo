@@ -2,8 +2,7 @@
 
 """
 @author: Ming JIN
-"""
-"""
+
 Read images from the dataset; 
 
 it has been revoked by Step1-Training.ipynb;
