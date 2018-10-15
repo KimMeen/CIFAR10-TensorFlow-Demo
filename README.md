@@ -1,5 +1,12 @@
 # Silverpond AI Internship Test
-**CIFAR10-TensorFlow-Demo**
+
+**The Univeristy of Melbourne**
+
+**Ming Jin**
+
+**<mingj2@student.unimelb.edu.au>**
+
+# CIFAR10-TensorFlow-Demo
 
 The chosen topic: *Playing with convolutions*
 
