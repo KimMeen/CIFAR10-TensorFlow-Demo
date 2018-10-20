@@ -26,6 +26,8 @@ The training accuracy and loss curves are shown below.
 
 **The prediction results follow this format:**
 
+<br>
+
 *INFO:tensorflow:Restoring parameters from ./model/model.ckpt*
 
 *Model has been restored.*
@@ -39,6 +41,8 @@ The training accuracy and loss curves are shown below.
 *The prediction is correct!*
 
 *The confidence rate is: [ 0.99964237]*
+
+<br>
 
 **The picture used in the demo above(./test_images/jet2.jpg):**
 
