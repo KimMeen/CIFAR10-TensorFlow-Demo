@@ -4,7 +4,7 @@
 """
 
 def getFileName(path):
-    return path.split('/')[-1]
+    return path.split('\\')[-1]
 
 def readLines(file_path):
     with open(file_path, 'r') as T:

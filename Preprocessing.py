@@ -69,9 +69,9 @@ def process_images(label_file, one_hot, num_classes=10):
     print(len(label_record))
     index = 0
     for name in label_record:
-        image = Image.open(image_dir + str(label_record[name]) + '/' + name)
+        image = Image.open(image_dir + str(label_record[name]) + '\\' + name)
         if index % 100 == 0:
-            print("processing %d: " % index + image_dir + str(label_record[name]) + '/' + name)
+            print("processing %d: " % index + image_dir + str(label_record[name]) + '\\' + name)
         img_ndarray = numpy.asarray(image, dtype='float32')
         images[index] = numpy.ndarray.flatten(img_ndarray)
         labels[index] = numpy.int(label_record[name])
