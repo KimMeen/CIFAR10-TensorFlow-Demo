@@ -1,5 +1,5 @@
 # Latest Model
-The latest model can be downloaded from [here](https://drive.google.com/open?id=1o406WpzPczS1AGLODWQH3-CdfxwxaLKr)
+The latest trained model can be downloaded from [here](https://drive.google.com/open?id=1o406WpzPczS1AGLODWQH3-CdfxwxaLKr)
 
 This model is based on GPU training and iterated 100,000 times; Accuracy is about 80%
 
@@ -25,9 +25,9 @@ image by using the model that we trained, i.e. [A deep learning object detector 
 ## Training and Evaluation
 The training accuracy and loss curves are shown below.
 
-![Test_Accuracy](https://github.com/KimMeen/CIFAR10-Tensorflow-Single-Image-Test/raw/master/Test_accuracy.png)
+![Training_Accuracy](https://github.com/KimMeen/CIFAR10-TensorFlow-Demo/blob/master/images/acc.png)
 
-![Training_Loss](https://github.com/KimMeen/CIFAR10-Tensorflow-Single-Image-Test/raw/master/training_loss.png)
+![Training_Loss](https://github.com/KimMeen/CIFAR10-TensorFlow-Demo/blob/master/images/loss.png)
 
 **The prediction results follow this format:**
 
