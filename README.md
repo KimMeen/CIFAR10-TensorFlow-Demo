@@ -1,3 +1,8 @@
+# Latest Model
+The latest model can be downloaded from [here](https://drive.google.com/open?id=1o406WpzPczS1AGLODWQH3-CdfxwxaLKr)
+
+This model is based on GPU training and iterated 100,000 times; Accuracy is about 80%
+
 # Silverpond AI Internship Test
 
 **The Univeristy of Melbourne**
